@@ -5,17 +5,17 @@ full_description: 'EPIC Network is an all-in-one decentralized<br>
 <br>EPIC is fairly distributed, eco-friendly and
 <br>consumes minimal battery power. EPIC is fair 
 <br>and valuable to everyone.'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+android: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
+iOS: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
+web: https://mineepic.com/
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
+producthunt: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
 companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
+  - url: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
     image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
+  - url: https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork
     image: producthunt.png
